@@ -17,3 +17,12 @@ A basic discord bot that understands the message history and can answer accordin
 1. Go to **https://aistudio.google.com/apikey** and login with your account credentials
 2. Once on the dashboard, click on **Create API Key**
 3. Save that key somewhere, you're going to need it later
+
+### Get your Cloudflare domain
+1. Go to **https://workers.dev** and click on **Sign up**
+2. Verify your E-Mail to save your progress
+3. On the left bar, navigate to **Compute (Workers)** and to **Workers and Pages**
+4. Click on **create** and create a Hello-World-Worker
+5. Create a domain name of your liking
+6. Click on **Edit Code** and wait for the code editor to load
+7. 
