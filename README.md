@@ -44,4 +44,10 @@ Complete the steps below to get the Bot running
 6. Click on **Reset token** and fulfill the next steps
 7. Save your token for later
 
-### Run t
+### Run the Bot
+1. Download **[the bot script](https://github.com/einfachniemmand/discord_ai_member/blob/main/src/bot.py)**
+2. Open the script in a IDE like Visual Studio Code (doesnt really matter)
+3. Replace *YOUR_BOT_TOKEN* with your actual token from the steps above
+4. Change the context to your liking
+5. Run it locally or on a server
+
