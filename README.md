@@ -30,3 +30,4 @@ A basic discord bot that understands the message history and can answer accordin
 9. Click on **Deploy** to save your changes
 
 ### Get your bot token
+1. Visit [My Applications in the Discord Developer Forum](https://discord.com/developers/applications) and start by creating a new application
