@@ -19,7 +19,7 @@ A basic discord bot that understands the message history and can answer accordin
 3. Save that key somewhere, you're going to need it later
 
 ### Get your Cloudflare domain
-1. Go to **https://workers.dev** and click on **Sign up**
+1. Go to **https://workers.dev/** and click on **Sign up**
 2. Verify your E-Mail to save your progress
 3. On the left bar, navigate to **Compute (Workers)** and to **Workers and Pages**
 4. Click on **create** and create a Hello-World-Worker
