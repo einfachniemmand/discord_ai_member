@@ -1,13 +1,19 @@
 # Discord AI Member (Bot)
-A basic discord bot that understands the message history and can answer according to it using Google Gemini.<br>
+A basic discord bot that understands the message history and can answer according to it using Google Gemini.<br><br>
 ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)<br><br>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)<br>
 
 ## Requirements:
 - Discord Account
 - Cloudflare Account
-- Google Account
+- Google Account (Age 18+)
 - Python 3.8 or higher
+
+## Setup
+### Get the Google API Key
+1. Go to **https://aistudio.google.com/apikey** and login with your account credentials
+2. Once on the dashboard, click on **Create API Key**
+3. Save that key somewhere, you're going to need it later
