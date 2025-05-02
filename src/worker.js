@@ -10,6 +10,13 @@ export default {
                 },
             });
         }
+        if (request.method === 'GET') {
+            return new Response("Data won't displayed through a GET method.", { // Blocking GET requests
+                headers: {
+                    "Content-Type": "text/html",
+                },
+            });
+        }
         const API_URL = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent'; //Adjust the URL to your API version of Gemini
         const API_KEY = 'YOUR_API_KEY'; // Add your google API key here
         const requestBody = await request.json();#
@@ -29,13 +36,6 @@ export default {
                 }],
             }),
         });
-        if (request.method === 'GET') {
-            return new Response("GET Method is not supportet.", { // Blocking GET requests
-                headers: {
-                    "Content-Type": "text/html",
-                },
-            });
-        }
         const apiResponseBody = await apiResponse.json();
         return new Response(JSON.stringify(apiResponseBody), {
             status: apiResponse.status,
