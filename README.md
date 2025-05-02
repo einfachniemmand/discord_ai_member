@@ -51,3 +51,4 @@ Complete the steps below to get the Bot running
 4. Change the context to your liking
 5. Run it locally or on a server
 
+If that didn't work, create an issue and I'll reach out to you, else don't hesitate to follow me on [my profile](https://github.com/einfachniemmand)!
