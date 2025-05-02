@@ -25,4 +25,5 @@ A basic discord bot that understands the message history and can answer accordin
 4. Click on **create** and create a Hello-World-Worker
 5. Create a domain name of your liking
 6. Click on **Edit Code** and wait for the code editor to load
-7. 
+7. Paste my **[worker.js script](https://github.com/einfachniemmand/discord_ai_member/blob/main/src/worker.js)** there and change the context to your liking
+8. Finally, replace your api key from google with *YOUR_API_KEY* 
