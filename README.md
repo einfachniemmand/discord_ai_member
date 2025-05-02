@@ -1,4 +1,4 @@
-# Discord AI Member (Bot)
+# Discord AI Member (Python)
 A basic discord bot that understands the message history and can answer according to it using Google Gemini.<br><br>
 ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
@@ -10,7 +10,12 @@ A basic discord bot that understands the message history and can answer accordin
 - Discord Account
 - Cloudflare Account
 - Google Account (Age 18+)
-- Python 3.8 or higher
+- Python 3.8 or higher installed
+
+## Libraries
+You need to install the following python libraries for the bot to work correctly
+- discord.py
+- requests
 
 ## Setup
 Complete the steps below to get the Bot running
@@ -38,3 +43,5 @@ Complete the steps below to get the Bot running
 5. Activate the **Message Content Intent** Option and click save
 6. Click on **Reset token** and fulfill the next steps
 7. Save your token for later
+
+### Run t
