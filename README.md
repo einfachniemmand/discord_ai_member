@@ -13,6 +13,7 @@ A basic discord bot that understands the message history and can answer accordin
 - Python 3.8 or higher
 
 ## Setup
+Complete the steps below to get the Bot running
 ### Get the Google API Key
 1. Go to **https://aistudio.google.com/apikey** and login with your account credentials
 2. Once on the dashboard, click on **Create API Key**
