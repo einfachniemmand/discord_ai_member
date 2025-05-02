@@ -30,4 +30,10 @@ A basic discord bot that understands the message history and can answer accordin
 9. Click on **Deploy** to save your changes
 
 ### Get your bot token
-1. Visit [My Applications in the Discord Developer Forum](https://discord.com/developers/applications) and start by creating a new application
+1. Visit [My Applications in the Discord Developer Forum](https://discord.com/developers/applications) and log in with your discord account
+2. Start by clicking on **New Application**, you can change the name at any time
+3. You get loaded onto the dashboard where you can customize your bot
+4. Navigate to **Bot** on the left bar
+5. Activate the **Message Content Intent** Option and click save
+6. Click on **Reset token** and fulfill the next steps
+7. Save your token for later
